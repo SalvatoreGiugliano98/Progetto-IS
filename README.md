@@ -1,5 +1,6 @@
 # Progetto-IS: Sistema di gestione call center
 ## Gruppo 19
+### Casillo Vincenzo, Catapano Pacifico, Giugliano Salvatore
 Si vuole realizzare un sistema informatico per la gestione di un call center.
 
 Il sistema è utilizzato da *amministratori* e *centralinisti*. 
