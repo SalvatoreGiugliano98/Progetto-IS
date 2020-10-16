@@ -23,6 +23,7 @@ registrano l'esito. In particolare, per ogni telefonata memorizzano:
   - l'ora, 
   - note, 
   - l'esito (occupato, senza risposta, da richiamare, non interessato, appuntamento fissato). 
+
 In caso di appuntamento fissato, il centralinista crea un nuovo appuntamento tra uno degli agenti vendita del call center e l'utenza chiamata. 
 L'appuntamento contiene:
   - id, 
